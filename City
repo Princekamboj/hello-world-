@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>City Clinical Laboratory</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/custom2.css">
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+</head>
+<body>
+<div class="header">
+  
+
+
+  <!-- Links -->
+ 
+<div class="container">
+ <div class="row">
+	<div class="col-md-3">
+	 <div class="logo">
+		<img src="logo/logo.png">
+	</div>
+</div>
+	 <div class="col-md-9">
+     <div id="navbar" class="collapse navbar-collapse">
+      <ul class="menu">
+        <li class="active">
+          <a href="#">Home</a>
+        </li>
+        <li>
+          <a  href="#">About</a>
+        </li>
+        <li >
+          <a  href="#">Test</a>
+    	  </li>
+    	  <li>
+    	  <a  href="#">Video</a>
+    	  </li>
+    	  <li>
+    	  <a  href="#">Download</a>
+    	  </li>
+        <li>
+        <a  href="#">Gallery</a>
+        </li>
+        <li>
+        <a  href="#">Contact</a>
+        </li>
+    </ul>
+    </div><!--/.nav-collapse -->
+  <div class="search">
+    <input type="text" class="form-control input-sm" maxlength="64" placeholder="Search" />
+     <button type="submit" class="btn btn-primary btn-sm">Search</button>
+    </div>
+  </div>
+ </div>
+</div>
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  <!-- The slideshow -->
+   <div class="carousel-inner">
+    <div class="carousel-item active">
+    <img src="image/Lab.jpg" alt="Los Angeles">
+    </div>
+    <div class="carousel-item">  
+    <img src="image/lab1.jpg" alt="Chicago">
+    </div>
+    <div class="carousel-item">
+  <img src="image/lab2.jpg"alt="New York">
+    </div>
+  </div>
+  <div class="welcome">
+    <h1>WELCOME TO CITY CLINICAL LABORATORY</h1>
+    <p class="text">We have contracts with laboratories all over the world to provide lab services at the best prices. We also contract with the free-standing independent laboratories for certain specialty tests. In addition, physicians may also...We have contracts with laboratories all over the world to provide lab services at the best prices. We also contract with the free-standing independent laboratories for certain specialty tests. In addition, physicians may also...</p>
+    <button type="button" class="btn-link">Read More<i class="fa fa-angle-double-right"></i> 
+    </button>
+    <div class="service">
+      <img src="image/bg1.jpg">
+</div>
+     <div class="text-main">
+      <h1>SERVICE</h1>
+      
+     </div>
+     
+   
+       <div class="row">
+          <div class="container">
+     <div class="main-p">
+        Structural hunger is as important for life, as well as the collective unconscious. Auditory training, despite external influences, homogeneously starts dissonance.          
+                <div class="col-md-4 col-sm-6">
+                    <div class="box14">
+                        <img src="image/annual.jpg" alt="">
+                        <div class="box-content">
+                            <h3 class="title">Annual Check up</h3>
+                            <span class="post">Code, as required by the rules of private international law, ensure the endorsement.</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="box14">
+                        <img src="image/thyroid.jpg" alt="">
+                        <div class="box-content">
+                            <h3 class="title">Thyroid Function Tests</h3>
+                            <span class="post">Code, as required by the rules of private international law, ensure the endorsement.</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="box14">
+                        <img src="image/skin.jpg" alt="">
+                        <div class="box-content">
+                            <h3 class="title">Skin Problems</h3>
+                            <span class="post">Code, as required by the rules of private international law, ensure the endorsement.
+
+</span>
+                        </div>
+                    </div>
+                </div>
+          </div>
+        </div>
+      </div>
+      <div class="test">
+        <div class="container">
+        <div class="row">
+        <h1>YOU NEED SPECIAL TESTS TO DIAGNOSTIC ?
+</h1>
+       <p> We are a privately owned and operated laboratory which enables us to give that more personalized service to our clients</p>
+
+
+      </div>
+    </div>
+  </div>
+  <div class="news">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+      </div>
+      <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+        <h1>Latest News</h1> 
+        <p>  <marquee behavior="scroll" direction="up"scrollamount="1"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</marquee></p>
+        <!-- col-md-12 --> 
+  </div>
+  <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+    <img src="image/lal.png" alt="">
+  </div>
+</div>
+</div>
+</div>     
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
+
+  
